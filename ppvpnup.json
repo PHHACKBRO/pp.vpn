@@ -1,162 +1,38 @@
 {
    "files": [    
-{
-         "name": "SG-FREE-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-001.ovpn"
-       },
 
 {
-         "name": "SG-FREE-002",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-002.ovpn"
-       },
-
-
-{
-         "name": "SG-FREE-003",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-003.ovpn"
-        },
-{
-         "name": "SG-FREE-004",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-004.ovpn"
-      },
-{
-         "name": "SG-FREE-005",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-005.ovpn"
-      },
-{
-         "name": "SG-FREE-006",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-006.ovpn"
-      },
-{
-         "name": "SG-FREE-007",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-007.ovpn"
-       },
-
-
-{
-         "name": "SG-FREE-008",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-008.ovpn"
-        },
-{
-         "name": "SG-FREE-009",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-009.ovpn"
-      },
-{
-         "name": "SG-FREE-010",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-FREE-010.ovpn"
-      },
-{
-         "name": "TH-FREE-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/TH-FREE-003.ovpn"
-      },
-{
-         "name": "TH-FREE-002",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/TH-FREE-004.ovpn"
-      },
-{
-         "name": "TH-FREE-003",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/TH-FREE-010.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-ADS-FREE-001.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-002",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-ADS-FREE-002.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-003",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-ADS-FREE-003.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-004",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-ADS-FREE-004.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-005",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-ADS-FREE-005.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-006",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-FREE-006.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-007",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-FREE-007.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-008",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-FREE-008.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-009",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-FREE-009.ovpn"
-      },
-{
-         "name": "US-ADS-FREE-010",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/US-FREE-010.ovpn"
+         "name": "SG-online-001",
+         "url": "https://raw.githubusercontent.com/painghein6/VIP-GAME/main/SG-VIP-online-001.ovpn"
       },
 
 {
-         "name": "TH-GAME-VIP-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-001.ovpn"
+         "name": "TH-GAME-001",
+         "url": "https://raw.githubusercontent.com/painghein6/VIP-GAME/main/TH-GAME-VIP-001.ovpn"
       },
 
 {
-         "name": "TH-GAME-VIP-002",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-002.ovpn"
+         "name": "TH-GAME-002",
+         "url": "https://raw.githubusercontent.com/painghein6/VIP-GAME/main/TH-GAME-VIP-002.ovpn"
       },
 
 {
-         "name": "TH-GAME-VIP-003",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-003.ovpn"
+         "name": "TH-GAME-003",
+         "url": "https://raw.githubusercontent.com/painghein6/VIP-GAME/main/TH-GAME-VIP-003.ovpn"
       },
 
 {
-         "name": "TH-GAME-VIP-004",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-004.ovpn"
+         "name": "TH-GAME-004",
+         "url": "https://raw.githubusercontent.com/painghein6/VIP-GAME/main/TH-GAME-VIP-004.ovpn"
       },
 
 {
-         "name": "TH-GAME-VIP-005",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-005.ovpn"
-      },
-
-{
-         "name": "TH-GAME-VIP-006",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-006.ovpn"
-      },
-
-{
-         "name": "TH-GAME-VIP-007",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-007.ovpn"
-      },
-
-{
-         "name": "TH-GAME-VIP-008",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-008.ovpn"
-      },
-{
-         "name": "TH-GAME-VIP-009",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-009.ovpn"
-      },
-{
-         "name": "TH-GAME-VIP-010",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-010.ovpn"
-       }
+         "name": "TH-GAME-005",
+         "url": "https://raw.githubusercontent.com/painghein6/VIP-GAME/main/TH-GAME-VIP-005.ovpn"
+      }
 
    ],
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n•Version:16\n
-•အပ်ဒိပ်-ဖိုင်(16) 
-•🇸🇬SG.FREE 10ဖိုင်
-•🇱🇷US.FREE 10ဖိုင် 
-•🇹🇭𝐓𝐇.FREE 3 ဖိုင်
-•🇹🇭𝐓𝐇.𝐕𝐈𝐏  10 ဖိုင်
-•VIPတလ၅၀ဘတ်နဲ့လာအားပေးလို့ရပါတယ်\n
-•VIP ဝယ်ချင်ပါက 👇👇👇နိုပ်လိုက်ပါ
-•https://m.me/pyingpying.hein.p \n
-•TRUE🇹🇭DTAနှစ်မျိုးချိတ်လို့ရပါတယ်\n•😒Updateလုပ်ပေးကျပါအုံးနော်😲\n•𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞💯𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n•PaingPainghein",
-   "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 FREE&VIP💌" ,
-   "version": 17
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n•Version:1\n•လာအားပေးလို့ရပါတယ် \nFB PaingPainghein\n\nUpdateလုပ်ပေးကျပါအုံး\n•𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞💯𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n•PaingPainghein",
+   "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 𝐕𝐢𝐩💌" ,
+   "version": 1
 }
